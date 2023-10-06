@@ -1,0 +1,11 @@
+name: Formula1
+title: Formula1
+username:
+account: hectorias
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8926479
+bundleId: 7124563
+url: https://hectorias.shinyapps.io/Formula1/
+when: 1682265120.10325
+lastSyncTime: 1682265120.10325
